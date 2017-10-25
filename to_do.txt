@@ -20,13 +20,13 @@ INDUSTRY & PERSONAL - KNOWLEDGE
 2) Business (Coursera, edX etc.) & Project Management
 3) Machine Learning : Indepth Knowledge
 4) Statistics
-5) Engineering Mathematics - {Probability, P&C}, Calculus, Linear Algebra, Game Theory, Discrete Maths, Operations Research [See GATE Syllabus]
+5) Engineering Mathematics - {Probability, P&C}, Calculus, Linear Algebra, Game Theory, Optimization, Discrete Maths, Operations Research [See GATE Syllabus]
 6) Reinforcement Learning - Udacity
 7) Probabilistic Graphical Modeling - Stanford
 8) Puzzles, Logical Reasoning, Data Interpretation, Aptitude, Structured Thinking, Paragraph Completion, Verbal Reasoning, English, Quantitative Ability etc.[CAT LEVEL]
 9) Recommender Systems : Study as much as possible
 10) Text Mining & Natural Language Processing : Study as much as possible
-11) Other Knowledge: Customer Segmentation & Targeting, Propensity Modeling, Churn Modeling, Lifetime Value Estimation, Forecasting, Recommender Systems, Modeling Response to Incentives, Marketing Mix Optimization, Price Optimization, SEM, GLM, GLMM, CPG: pricing and promotion analytics, marketing analytics, trade promotions, supply chain management, BFSI: cross-sell, up-sell, campaign analytics, treasury analytics, fraud detection,Healthcare: medical adherence, medical risk profiling, EHR data, fraud-waste-abuse 
+11) Other Knowledge: Time Series, Customer Segmentation & Targeting, Propensity Modeling, Churn Modeling, Lifetime Value Estimation, Forecasting, Recommender Systems, Modeling Response to Incentives, Marketing Mix Optimization, Price Optimization, SEM, GLM, GLMM, CPG: pricing and promotion analytics, marketing analytics, trade promotions, supply chain management, BFSI: cross-sell, up-sell, campaign analytics, treasury analytics, fraud detection,Healthcare: medical adherence, medical risk profiling, EHR data, fraud-waste-abuse 
 12) AV Skilltests Remaining
 13) English & Communication Skills
 14) Online Machine Learning: http://www.mit.edu/~rakhlin/6.883/

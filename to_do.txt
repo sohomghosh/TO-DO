@@ -3,6 +3,7 @@ WILP FOR INDUSTRY
     SQL queries
     SQL queries optimization
 2) Data Structure & Algorithms
+    Geeks4Geeks
     https://www.hackerearth.com/practice/algorithms
     Graduate Algorithms : jeffe.cs.illinois.edu/teaching/algorithms/all-algorithms.pdf
     Implement in Python
@@ -26,19 +27,22 @@ INDUSTRY & PERSONAL - KNOWLEDGE
 9) Recommender Systems : Study as much as possible
 10) Text Mining & Natural Language Processing : Study as much as possible
 11) Other Knowledge: Customer Segmentation & Targeting, Propensity Modeling, Churn Modeling, Lifetime Value Estimation, Forecasting, Recommender Systems, Modeling Response to Incentives, Marketing Mix Optimization, Price Optimization, SEM, GLM, GLMM, CPG: pricing and promotion analytics, marketing analytics, trade promotions, supply chain management, BFSI: cross-sell, up-sell, campaign analytics, treasury analytics, fraud detection,Healthcare: medical adherence, medical risk profiling, EHR data, fraud-waste-abuse 
-12) 
+12) AV Skilltests Remaining
+13)
 
 
-HACKATHONS
+HACKATHONS & BLOGS
 1) Kaggle
 2) Analytics Vidhya
 3) HackerEarth
 4) Others: HackerRank, TechGig, DrivenData, CrowdAnalytics etc.
+5) Blogs: Analytics Vidhya, Data Science Central, Kdnuggets, Python Weekly, Deep-Learning Weekly etc.
+6) 
 
 
 INDEPENDENT PROJECTS
 1) Chatbot
-2) Other domains: Finance Quant Trading, Image Processing etc.
+2) Other domains: Finance Quant Trading, Image Processing, Supply Chain etc.
 3)
 
 TECHNOLOGY

@@ -23,19 +23,22 @@ INDUSTRY & PERSONAL - KNOWLEDGE
 5) Engineering Mathematics - {Probability, P&C}, Calculus, Linear Algebra, Game Theory, Discrete Maths, Operations Research [See GATE Syllabus]
 6) Reinforcement Learning - Udacity
 7) Probabilistic Graphical Modeling - Stanford
-8) Puzzles, Logical Reasoning, Data Interpretation, Aptitude etc.[CAT LEVEL]
+8) Puzzles, Logical Reasoning, Data Interpretation, Aptitude, Structured Thinking, Paragraph Completion, Verbal Reasoning, English, Quantitative Ability etc.[CAT LEVEL]
 9) Recommender Systems : Study as much as possible
 10) Text Mining & Natural Language Processing : Study as much as possible
 11) Other Knowledge: Customer Segmentation & Targeting, Propensity Modeling, Churn Modeling, Lifetime Value Estimation, Forecasting, Recommender Systems, Modeling Response to Incentives, Marketing Mix Optimization, Price Optimization, SEM, GLM, GLMM, CPG: pricing and promotion analytics, marketing analytics, trade promotions, supply chain management, BFSI: cross-sell, up-sell, campaign analytics, treasury analytics, fraud detection,Healthcare: medical adherence, medical risk profiling, EHR data, fraud-waste-abuse 
 12) AV Skilltests Remaining
-13)
+13) English & Communication Skills
+14) Online Machine Learning: http://www.mit.edu/~rakhlin/6.883/
+15) Vowpal Wabbit, FTRL- Algorithms https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/
+16) 
 
 
 HACKATHONS & BLOGS
 1) Kaggle
 2) Analytics Vidhya
 3) HackerEarth
-4) Others: HackerRank, TechGig, DrivenData, CrowdAnalytics etc.
+4) Others: HackerRank, TechGig, DrivenData, CrowdAnalytix etc.
 5) Blogs: Analytics Vidhya, Data Science Central, Kdnuggets, Python Weekly, Deep-Learning Weekly etc.
 6) 
 
@@ -49,7 +52,7 @@ TECHNOLOGY
 1) Tensorflow & Keras
 2) MongoDB
 3) D3
-4) Remaining Big Data Technologies: Spark streaming, GraphX, Kafka etc.
+4) Remaining Big Data Technologies: Spark streaming, GraphX, Kafka, Strorm, Knises etc.
 5) 
 
 OTHERS

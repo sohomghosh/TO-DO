@@ -1,0 +1,57 @@
+WILP FOR INDUSTRY
+1) DBMS
+    SQL queries
+    SQL queries optimization
+2) Data Structure & Algorithms
+    https://www.hackerearth.com/practice/algorithms
+    Graduate Algorithms : jeffe.cs.illinois.edu/teaching/algorithms/all-algorithms.pdf
+    Implement in Python
+3) Object Oriented Analysis & Design PLUS Software Architecture
+    Practical Implementation
+4) Other NON-WILP GATE Subjects: Basic knowledge of OS, Networking, Compilers, Theory of Computation
+5) <Sem-2,3 to be added>
+
+
+INDUSTRY & PERSONAL - KNOWLEDGE
+1) Deep Learning : 
+  https://github.com/sohomghosh/DeepLearning_materials_codes_readingList/blob/master/reading_list.txt
+  Udemy Certification
+2) Business (Coursera, edX etc.) & Project Management
+3) Machine Learning : Indepth Knowledge
+4) Statistics
+5) Engineering Mathematics - {Probability, P&C}, Calculus, Linear Algebra, Game Theory, Discrete Maths, Operations Research [See GATE Syllabus]
+6) Reinforcement Learning - Udacity
+7) Probabilistic Graphical Modeling - Stanford
+8) Puzzles, Logical Reasoning, Data Interpretation, Aptitude etc.[CAT LEVEL]
+9) Recommender Systems : Study as much as possible
+10) Text Mining & Natural Language Processing : Study as much as possible
+11) Other Knowledge: Customer Segmentation & Targeting, Propensity Modeling, Churn Modeling, Lifetime Value Estimation, Forecasting, Recommender Systems, Modeling Response to Incentives, Marketing Mix Optimization, Price Optimization, SEM, GLM, GLMM, CPG: pricing and promotion analytics, marketing analytics, trade promotions, supply chain management, BFSI: cross-sell, up-sell, campaign analytics, treasury analytics, fraud detection,Healthcare: medical adherence, medical risk profiling, EHR data, fraud-waste-abuse 
+12) 
+
+
+HACKATHONS
+1) Kaggle
+2) Analytics Vidhya
+3) HackerEarth
+4) Others: HackerRank, TechGig, DrivenData, CrowdAnalytics etc.
+
+
+INDEPENDENT PROJECTS
+1) Chatbot
+2) Other domains: Finance Quant Trading, Image Processing etc.
+3)
+
+TECHNOLOGY
+1) Tensorflow & Keras
+2) MongoDB
+3) D3
+4) Remaining Big Data Technologies: Spark streaming, GraphX, Kafka etc.
+5) 
+
+OTHERS
+1) Gym
+2) Mouthorgan & Tabla
+3) Travel
+4) Movies & Family & Make Friends
+5) 
+

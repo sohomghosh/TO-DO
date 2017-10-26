@@ -7,8 +7,9 @@ WILP FOR INDUSTRY
     https://www.hackerearth.com/practice/algorithms
     Graduate Algorithms : jeffe.cs.illinois.edu/teaching/algorithms/all-algorithms.pdf
     Implement in Python
+    class, _init_,decorators, annotators etc. in Python
 3) Object Oriented Analysis & Design PLUS Software Architecture
-    Practical Implementation
+    Practical Implementation in Python
 4) Other NON-WILP GATE Subjects: Basic knowledge of OS, Networking, Compilers, Theory of Computation
 5) <Sem-2,3 to be added>
 

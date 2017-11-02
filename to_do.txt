@@ -4,6 +4,10 @@ WILP FOR INDUSTRY
     SQL queries optimization
 2) Data Structure & Algorithms
     Geeks4Geeks
+        1) https://drive.google.com/drive/u/0/folders/0B6XJQpAl7PAdflVfYWZRV3EtZ0FJYlZTOERaaS1scC1xR2U2Nldma3I0WWhoZ0hQTVpuUjA
+        2) https://drive.google.com/drive/u/0/folders/0B6XJQpAl7PAdflVfYWZRV3EtZ0FJYlZTOERaaS1scC1xR2U2Nldma3I0WWhoZ0hQTVpuUjA
+    Cracking Coding Interviews
+    Naroshima Karomanchi - Data Structures & Algo made easy
     https://www.hackerearth.com/practice/algorithms
     Graduate Algorithms : jeffe.cs.illinois.edu/teaching/algorithms/all-algorithms.pdf
     Implement in Python

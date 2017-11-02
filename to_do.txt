@@ -12,7 +12,7 @@ WILP FOR INDUSTRY
 3) Object Oriented Analysis & Design PLUS Software Architecture
     Practical Implementation in Python
 4) Other NON-WILP GATE Subjects: Basic knowledge of OS, Networking, Compilers, Theory of Computation
-5) <Sem-2,3 to be added>
+5) <Sem-2,3 to be added: Adv. Stat, IR, AI, Data warehousing, Data Mining, Adv. data Mining, Distributed Computing>
 
 
 INDUSTRY & PERSONAL - KNOWLEDGE

@@ -50,7 +50,8 @@ RESEARCH PAPERS TO READ
 3) https://arxiv.org/pdf/1603.01360.pdf  
 4) https://github.com/glample/tagger
 5) See /home/Desktop/Research_Papers
-6) 
+6) https://arxiv.org/abs/1710.09829
+7) 
 
 INDEPENDENT PROJECTS
 1) Chatbot

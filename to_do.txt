@@ -36,7 +36,7 @@ INDUSTRY & PERSONAL - KNOWLEDGE
 12) AV Skilltests Remaining
 13) English & Communication Skills
 14) Online Machine Learning: http://www.mit.edu/~rakhlin/6.883/
-15) Vowpal Wabbit, FTRL- Algorithms https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/
+15) Vowpal Wabbit, FTRL- Algorithms https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/ , Self-organizing_map
 16) 
 
 

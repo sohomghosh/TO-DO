@@ -56,7 +56,11 @@ RESEARCH PAPERS TO READ
 4) https://github.com/glample/tagger
 5) See /home/Desktop/Research_Papers
 6) https://arxiv.org/abs/1710.09829
-7) 
+7) Deep Reinforcement Learning: https://arxiv.org/pdf/1701.07274.pdf
+8) A Brief Introduction to Machine Learning for Engineers https://arxiv.org/pdf/1709.02840.pdf
+9) Neural Machine Translation https://arxiv.org/pdf/1709.07809.pdf
+10) Neural Machine Translation and Sequence-to-sequence Models: A Tutorial https://arxiv.org/pdf/1703.01619.pdf
+11) 
 
 INDEPENDENT PROJECTS
 1) Chatbot

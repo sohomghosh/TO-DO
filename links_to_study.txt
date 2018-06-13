@@ -57,3 +57,9 @@ https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-ne
 https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/
 https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
 https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
+
+#Reinforcement Learning
+http://rail.eecs.berkeley.edu/deeprlcourse/
+https://sites.google.com/view/deep-rl-bootcamp/lectures
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+https://github.com/yandexdataschool/Practical_RL
